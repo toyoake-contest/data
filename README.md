@@ -1,8 +1,8 @@
 # README
 
-**Unauthorized copying and replication of the contents of this site, text and images are strictly prohibited.**
+**Unauthorized copying and replication of the contents of this repository, text and images are strictly prohibited.**
 
-**当サイトのテキスト・画像の無断転載・複製を固く禁じます。**
+**当レポジトリのテキスト・画像の無断転載・複製を固く禁じます。**
 
 ## データ構造
 
